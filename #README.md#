@@ -1,0 +1,46 @@
+# NeuralNet_Image_Rec
+Foundational Application of Neural Network in simple image recognition
+Last login: Sat Feb  9 14:49:54 on ttys000
+Yihongs-MacBook-Pro:~ yihongsun$ cd
+Yihongs-MacBook-Pro:~ yihongsun$ cd Documents/
+Yihongs-MacBook-Pro:Documents yihongsun$ cd Projects/
+Yihongs-MacBook-Pro:Projects yihongsun$ https://github.com/YihongSun/NeuralNet_Image_Rec.git
+-bash: https://github.com/YihongSun/NeuralNet_Image_Rec.git: No such file or directory
+Yihongs-MacBook-Pro:Projects yihongsun$ git clone https://github.com/YihongSun/NeuralNet_Image_Rec.git
+Cloning into 'NeuralNet_Image_Rec'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Yihongs-MacBook-Pro:Projects yihongsun$ ls
+CAT							NeuralNet_Image_Rec
+Fun										ml
+High School											tensorflow.py
+MicropalletArrayAnalysis
+Yihongs-MacBook-Pro:Projects yihongsun$ cd NeuralNet_Image_Rec/
+Yihongs-MacBook-Pro:NeuralNet_Image_Rec yihongsun$ ls
+README.md
+Yihongs-MacBook-Pro:NeuralNet_Image_Rec yihongsun$ emacs README.md 
+Yihongs-MacBook-Pro:NeuralNet_Image_Rec yihongsun$ cd ..
+Yihongs-MacBook-Pro:Projects yihongsun$ ks
+-bash: ks: command not found
+Yihongs-MacBook-Pro:Projects yihongsun$ ls
+CAT							NeuralNet_Image_Rec
+Fun										ml
+High School											tensorflow.py
+MicropalletArrayAnalysis
+Yihongs-MacBook-Pro:Projects yihongsun$ cd MicropalletArrayAnalysis/
+Yihongs-MacBook-Pro:MicropalletArrayAnalysis yihongsun$ ls
+MicropalletImageProcessing		     cross.jpg
+README.md						micropallet_processing.jar
+User_Prompts.docx						myfile
+Yihongs-MacBook-Pro:MicropalletArrayAnalysis yihongsun$ emacs README.md 
+
+* **Yihong Sun - Backend algorithms designer, frontend assistant**
+* **Mingze Shi - User interface designer, backend optimization**
+
+## License
+
+This project is licensed under the GNU General Public License License - see the\
+ [LICENSE.md](LICENSE.md) file for details
